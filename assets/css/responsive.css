@@ -1,0 +1,720 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .Corporate_img{
+    margin: auto;
+}
+.Corporate_text p{
+    font-size: 17px;
+    line-height: 1.8;
+}
+.vision-area h1{
+    font-size: 42px;
+}
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .header-area {
+        padding: 9px 16px;
+    }
+    
+    .nav_item {
+    }
+    
+    .nav_item > a span {
+        gap: 7px;
+        font-size: 14px;
+    }
+    
+    .menu-area {
+        margin-right: -10px;
+    }
+    .hero-1 {
+        max-width: 330px;
+    }
+    
+    .hero-2 {
+        max-width: 300px;
+    }
+    
+    .hero-3 {
+        max-width: 280px;
+        top: 10%;
+    }
+    
+    .hero-6 {
+        max-width: 270px;
+    }
+    
+    .hero-4 {
+        max-width: 200px;
+    }
+    
+    .hero-5 {
+        max-width: 300px;
+    }
+    
+    .brand_blk {
+        height: 230px;
+    }
+    
+    .svc_blk i {
+        height: 240px;
+    }
+    .YT_frame iframe{
+    height: 540px;
+}
+.Corporate_img{
+    margin: auto;
+}
+.Corporate_text p{
+    font-size: 16px;
+    line-height: 1.8;
+}
+.vision-area h1{
+    font-size: 40px;
+}
+.ab-hero .hero-content{
+    padding-left: 30px;
+}
+.ab-hero .hero-content {}
+
+.Mission_img:after {
+    top: 20px;
+    max-height: 453px;
+    max-width: 473px;
+}
+
+.Mission_img i {
+    max-width: 444px;
+}
+
+.Mission_text p {
+    font-size: 18px;
+    line-height: 28px;
+}
+img.red-Vector {
+    bottom: -80px;
+}
+
+.pb_150 {
+    padding-bottom: 100px;
+}
+
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    :root{
+      
+        --f18 : 16px;
+        --f20 : 18px;
+        --f22 : 20px;
+        --f24 : 22px;
+        --f28 : 24px;
+        --f30 : 26px;
+        --f32 : 28px;
+        --f36 : 32px;
+        --f40 : 36px;
+        --f48 : 40px;
+      
+      }
+      .top_space {
+        padding-top: 200px;
+    }
+      .mb_150{
+        margin-bottom: 90px;
+      }
+    .header-area {
+        padding: 9px 16px;
+        top: 20px;
+    }
+
+.header-area .container {
+    padding: 0 10px;
+}
+
+.container {
+    padding: 0 24px;
+}
+    
+    .nav_item {
+    padding: 0;
+    }
+    
+    .nav_item > a span {
+    width: 100%;
+    justify-content: space-between;
+    padding-right: 30px;
+    }
+    
+    .mobile-menu .menu-area {
+    }
+
+.nav_item ul {}
+    .hero-1 {
+        max-width: 220px;
+    }
+    
+    .hero-2 {
+        max-width: 250px;
+    }
+    
+    .hero-3 {
+        max-width: 200px;
+        top: 10%;
+    }
+    
+    .hero-6 {
+        max-width: 180px;
+    }
+    
+    .hero-4 {
+        max-width: 160px;
+    }
+    
+    .hero-5 {
+        max-width: 300px;
+    }
+    
+    .brand_blk {
+        height: 230px;
+    }
+    
+    .svc_blk i {
+        height: 240px;
+    }
+    .heroHome-area {
+        min-height: 679px;
+        height: auto;
+    }
+    
+    .heroHome-area .container {
+        min-height: 620px;
+    }
+    
+    .dist_img {
+        margin: auto;
+    }
+    
+    .distributor-area .container {
+        max-width: 500px;
+    }
+
+.dist_content {
+    margin-top: 30px;
+}
+.footer-img img{
+    max-width: 290px;
+    width: 100%;
+}
+.Brandhero-area {
+    height: 370px;
+}
+
+.YTvideo-area .row {
+    flex-direction: column-reverse;
+    gap: 50px;
+}
+.Insulation_img {
+    max-width: 600px;
+    margin: auto;
+}
+
+.Insulation_content {
+    max-width: 580px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.Insulation-text {
+    max-width: 550px;
+    margin: 20px auto;
+}
+
+.Insulation-area hr {
+    margin: 50px 0;
+}
+.YT_frame iframe{
+    height: 445px;
+}
+.Quatar_text,.Qatar-accordion{
+    margin-top: 40px;
+}
+.Corporate_img{
+    margin: auto;
+}
+.Corporate_text p{
+    font-size: 17px;
+    line-height: 1.8;
+}
+.vision-area h1{
+    font-size: 30px;
+}
+.Approach_blk i {
+    width: 120px;
+    height: 120px;
+    padding: 24px;
+}
+
+.Approach_blk {
+    padding: 30px 0;
+}
+
+.Approach_blk p {
+    font-size: 15px;
+    min-height: 80px;
+}
+
+.Approach_blk h4 {
+    font-size: 20px;
+}
+.vision-area .row{
+    gap: 30px;
+    flex-direction: column-reverse;
+}
+.Mission_img{
+    max-width: 584px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.Mission_text {
+    margin-top: 40px;
+    max-width: 590px;
+    margin-inline: auto;
+}
+img.red-Vector {
+    bottom: -80px;
+}
+
+.pb_150 {
+    padding-bottom: 100px;
+}
+.sellBrand_img{
+    margin-bottom: 50px;
+}
+.ITC-img{
+    max-width: 400px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    :root{
+      
+        --f18 : 16px;
+        --f20 : 18px;
+        --f22 : 18px;
+        --f24 : 20px;
+        --f28 : 22px;
+        --f30 : 24px;
+        --f32 : 26px;
+        --f36 : 28px;
+        --f40 : 32px;
+        --f48 : 36px;
+      
+      }
+      .top_space {
+        padding-top: 150px;
+    }
+      h1.title,h1{
+    font-size: 30px;
+}
+      .mb_150{
+        margin-bottom: 70px;
+      }
+    .header-area {
+        padding: 9px 16px;
+        top: 20px;
+    }
+
+.logo-area {
+    text-align: left;
+}
+
+.header_opt {
+    gap: 10px;
+}
+
+.logoMd {
+    display: block;
+    max-width: 40px;
+}
+
+img.logoLg {
+    display: none;
+}
+
+.header-area .container {
+    width: 100%;
+    padding: 0 10px;
+}
+
+.container {
+    padding: 0 24px;
+}
+    
+    .nav_item {
+    padding: 0;
+    }
+    
+    .nav_item > a span {
+    width: 100%;
+    justify-content: space-between;
+    padding-right: 30px;
+    }
+    
+    .mobile-menu .menu-area {
+    }
+
+.nav_item ul {}
+    .hero-1 {
+        max-width: 123px;
+    }
+    
+    .hero-2 {
+        max-width: 125px;
+    }
+    
+    .hero-3 {
+        max-width: 111px;
+        top: 10%;
+    }
+    
+    .hero-6 {
+        max-width: 100px;
+    }
+    
+    .hero-4 {
+        max-width: 90px;
+    }
+    
+    .hero-5 {
+        max-width: 200px;
+    }
+    
+    .brand_blk {
+        height: 180px;
+        width: 250px;
+        margin-inline: auto;
+        overflow: hidden;
+    }
+    
+    .svc_blk i {
+        height: 240px;
+    }
+    .heroHome-area {
+        min-height: 555px;
+        height: auto;
+    }
+
+.ab-hero {
+    min-height: 720px;
+}
+    
+    .heroHome-area .container {
+        min-height: 490px;
+    }
+    
+    .dist_img {
+        margin: auto;
+    }
+    
+    .distributor-area .container {
+        max-width: 500px;
+    }
+
+.dist_content {
+    margin-top: 30px;
+}
+.footer-img img{
+    max-width: 217px;
+    width: 100%;
+    margin: auto;
+    margin-right: -24px;
+}
+
+.footer-img {
+    /* text-align: center; */
+    margin-top: 20px;
+}
+.dist_img a{
+    width: 80px;
+    height: 80px;
+}
+.dist_content h1{
+    font-size: var(--f36);
+}
+section.product-area .thm_link {
+    margin-top: 20px;
+}
+.product_blk {
+    max-width: 290px;
+    margin-inline: auto;
+}
+
+.product-area .thm_btn {
+    font-size: 14px;
+    padding: 12px 24px;
+    margin-top: var(--f24) !important;
+}
+.social_link ul {
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.footer_btm {
+    text-align: center;
+    max-width: 330px;
+    margin-inline: auto;
+}
+.Training_blk{
+    height: auto;
+}
+
+.Training-area {
+    padding: 70px 0 50px;
+}
+.Brandhero-area {
+    height: 360px;
+    background-position: center;
+}
+
+.YTvideo-area .row {
+    flex-direction: column-reverse;
+    gap: 50px;
+}
+.YTvideo_frame iframe{
+    height: 270px;
+}
+.Insulation_img {
+    max-width: 600px;
+    margin: auto;
+}
+
+.Insulation_content {
+    max-width: 580px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.Insulation-text {
+    max-width: 550px;
+    margin: 20px auto;
+}
+
+.Insulation-area hr {
+    margin: 40px 0 20px;
+}
+.accordion-button{
+    font-size: 18px;
+    padding: 18px 10px;
+}
+.accordion-body ul li h6 {
+    width: auto;
+}
+
+.accordion-body ul li {
+    flex-direction: column;
+}
+
+.Qatar-accordion.FAQ .accordion-body ul li {
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+.Specifications-accordion {
+    margin: 30px 0 0px;
+}
+
+.Specifications-accordion a.thm_btn {
+    margin-top: 50px;
+}
+
+.thm_btn {
+    padding: 10px 24px;
+}
+.select_blk,.input_blk{
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.nice-select span {
+    font-size: 14px;
+    width: calc(100% - 4px);
+    overflow: hidden;
+}
+
+.input_blk i {
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.input_blk > span {
+    font-size: 14px;
+}
+.YT_frame iframe{
+    height: 250px;
+}
+.Quatar_text,.Qatar-accordion{
+    margin-top: 40px;
+}
+
+.Qatar-accordion.FAQ {
+    margin-top: 10px;
+}
+.Quatar-hero{
+    height: 300px;
+}
+.Quatar-area{
+    padding-top: 50px;
+}
+
+.mb_100 {
+    margin-bottom: 60px;
+}
+
+.mw-800 {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.Qatar-accordion .accordion-button::after{
+    width: 30px;
+    height: 30px;
+}
+.Quatar_text_top p{
+    font-size: 14px;
+}
+.Quatar_text_top ul li, ul.list-disk li:last-child,.Quatar_text_top ul li, ul.list-disk li:last-child p{
+    margin-bottom: 0;
+}
+
+.Approach_blk i {
+    width: 120px;
+    height: 120px;
+    padding: 24px;
+}
+
+.Approach_blk {
+    padding: 30px 0;
+}
+
+.Approach_blk p {
+    font-size: 16px;
+    padding: 5px 15px;
+}
+
+.Approach_blk h4 {
+    font-size: 20px;
+}
+.vision-area .row{
+    gap: 30px;
+    flex-direction: column-reverse;
+}
+.Mission_img{
+    max-width: 584px;
+    margin: auto;
+}
+
+.Mission_img i {
+    transform: translateY(-26px);
+}
+
+.Mission_img h2 {
+    font-size: 20px;
+    max-width: 226px;
+}
+
+.Mission_text {
+    margin-top: 40px;
+    max-width: 590px;
+    margin-inline: auto;
+    padding: 30px;
+}
+
+.Mission_text p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+.Corporate_img{
+    margin: auto;
+}
+.ab-hero .hero-content h1{font-size: 26px;}
+
+.ab-hero .hero-content {
+    margin-top: 140px;
+}
+.vision-area h1{
+    font-size: 26px;
+}
+ul.list-arrow{
+    flex-direction: column;
+    padding-left: 0;
+}
+.Corporate_text p{
+    font-size: 16px;
+}
+img.red-Vector {
+    bottom: 0px;
+}
+
+.pb_150 {
+    padding-bottom: 80px;
+}
+.sellBrand_img{
+    margin-bottom: 50px;
+}
+.sellBrand_text.Tektronix ul li{
+    flex-basis: 100%;
+    margin-bottom: 10px;
+}
+.sellBrand-area hr{
+    margin: 40px 0;
+}
+.ITC-img{
+    max-width: 400px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+.Careers-Hero{
+    background-position: center;
+    height: 350px;
+}
+
+.Careers-Hero h1 {
+    top: 50%;
+}
+.job_blk{
+    height: 200px;
+}
+.input_blk textarea{
+    height: 120px;
+}
+.input_blk input::placeholder,
+.input_blk textarea::placeholder{
+    font-size: 14px;
+}
+
+}
+ 
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.logoMd{
+    display: none;
+}
+
+img.logoLg {
+    display: block;
+    min-width: 230px;
+}
+}
